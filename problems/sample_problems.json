@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Two Sum",
+    "description": "Given an array of integers, return indices of the two numbers such that they add up to a specific target.",
+    "topic": "arrays",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Balanced Parentheses",
+    "description": "Check if a string containing only parentheses is balanced.",
+    "topic": "stack",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Longest Increasing Subsequence",
+    "description": "Find the length of the longest increasing subsequence in an array.",
+    "topic": "dynamic programming",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Graph Cycle Detection",
+    "description": "Detect a cycle in a directed graph using DFS.",
+    "topic": "graphs",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Median of Two Sorted Arrays",
+    "description": "Find the median of two sorted arrays of size m and n.",
+    "topic": "divide and conquer",
+    "difficulty": "hard"
+  }
+]

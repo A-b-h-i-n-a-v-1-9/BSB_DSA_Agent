@@ -1,0 +1,15 @@
+{
+  "solved": [
+    "Two Sum",
+    "Balanced Parentheses",
+    "arrays"
+  ],
+  "failed": [
+    "Longest Increasing Subsequence"
+  ],
+  "streak": 3,
+  "weak_topics": [
+    "arrays"
+  ],
+  "current_topic": "arrays"
+}

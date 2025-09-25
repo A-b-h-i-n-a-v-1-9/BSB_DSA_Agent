@@ -1,0 +1,9 @@
+# Ignore everything in agents/
+agents/*
+
+# But keep these
+!agents/problem_recommender.py
+!agents/__init__.py
+
+# Optional: don't track pycache
+agents/__pycache__/
